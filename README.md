@@ -1,7 +1,7 @@
 # 🍎 Nutrition Density App (Dual Mode)
 
 Estimate a **Nutrition Density Score (0–100)** from either an **uploaded image** or **manual entry**.
-🌐 **Portfolio:** [Web](https://nutrition-app-ty4zym6xnthsrntdftp7n6.streamlit.app/)
+🌐 **Play with it:** [Web](https://nutrition-app-ty4zym6xnthsrntdftp7n6.streamlit.app/)
 
 ## Modes
 1. **Image Mode** — Upload a photo → click **Detect** → edit foods & portions → **Estimate**.  
